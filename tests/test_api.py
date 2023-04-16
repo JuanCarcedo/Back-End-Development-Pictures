@@ -1,5 +1,5 @@
 import json
-import requests
+# import requests  # Commented JCA -- Error in run from WLS
 
 
 def test_health(client):
